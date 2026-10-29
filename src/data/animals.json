@@ -1,0 +1,1144 @@
+[
+ {
+  "name": "Aardvark",
+  "type": "Habitat",
+  "region": "Global",
+  "biomes": [
+   "Naturalistic"
+  ]
+ },
+ {
+  "name": "African Leopard",
+  "type": "Habitat",
+  "region": "Africa",
+  "biomes": [
+   "Forest",
+   "Temperate"
+  ]
+ },
+ {
+  "name": "African Penguin",
+  "type": "Aviary",
+  "region": "Africa",
+  "biomes": [
+   "Woodland",
+   "Grassland"
+  ]
+ },
+ {
+  "name": "African Savannah Elephant",
+  "type": "Habitat",
+  "region": "Africa",
+  "biomes": [
+   "Grassland",
+   "Savannah"
+  ]
+ },
+ {
+  "name": "African Tigerfish",
+  "type": "Aquarium",
+  "region": "Africa",
+  "biomes": [
+   "Aquatic"
+  ]
+ },
+ {
+  "name": "African Wild Dog",
+  "type": "Habitat",
+  "region": "Africa",
+  "biomes": [
+   "Naturalistic"
+  ]
+ },
+ {
+  "name": "Amazonian Giant Centipede",
+  "type": "Exhibit",
+  "region": "Americas / Global",
+  "biomes": [
+   "Species-specific exhibit"
+  ]
+ },
+ {
+  "name": "American Bullfrog",
+  "type": "Exhibit",
+  "region": "Americas / Global",
+  "biomes": [
+   "Species-specific exhibit"
+  ]
+ },
+ {
+  "name": "Asian Small-Clawed Otter",
+  "type": "Habitat",
+  "region": "Asia / Indo-Pacific",
+  "biomes": [
+   "Wetlands",
+   "Freshwater"
+  ]
+ },
+ {
+  "name": "Axolotl",
+  "type": "Exhibit",
+  "region": "Americas / Global",
+  "biomes": [
+   "Species-specific exhibit"
+  ]
+ },
+ {
+  "name": "Bactrian Camel",
+  "type": "Habitat",
+  "region": "Asia / Indo-Pacific",
+  "biomes": [
+   "Desert",
+   "Grassland"
+  ]
+ },
+ {
+  "name": "Binturong",
+  "type": "Habitat",
+  "region": "Asia / Indo-Pacific",
+  "biomes": [
+   "Naturalistic"
+  ]
+ },
+ {
+  "name": "Black Rhinoceros",
+  "type": "Habitat",
+  "region": "Global",
+  "biomes": [
+   "Grassland",
+   "Savannah"
+  ]
+ },
+ {
+  "name": "Black Wildebeest",
+  "type": "Habitat",
+  "region": "Africa",
+  "biomes": [
+   "Grassland",
+   "Savannah"
+  ]
+ },
+ {
+  "name": "Blackspotted Puffer",
+  "type": "Aquarium",
+  "region": "Aquatic / Global",
+  "biomes": [
+   "Aquatic"
+  ]
+ },
+ {
+  "name": "Blacktip Reef Shark",
+  "type": "Aquarium",
+  "region": "Aquatic / Global",
+  "biomes": [
+   "Aquatic"
+  ]
+ },
+ {
+  "name": "Blue and Gold Fusilier",
+  "type": "Aquarium",
+  "region": "Aquatic / Global",
+  "biomes": [
+   "Aquatic"
+  ]
+ },
+ {
+  "name": "Blue Wildebeest",
+  "type": "Habitat",
+  "region": "Africa",
+  "biomes": [
+   "Grassland",
+   "Savannah"
+  ]
+ },
+ {
+  "name": "Bluespine Unicornfish",
+  "type": "Aquarium",
+  "region": "Aquatic / Global",
+  "biomes": [
+   "Aquatic"
+  ]
+ },
+ {
+  "name": "Blunthead Cichlid",
+  "type": "Aquarium",
+  "region": "Aquatic / Global",
+  "biomes": [
+   "Aquatic"
+  ]
+ },
+ {
+  "name": "Boa Constrictor",
+  "type": "Habitat",
+  "region": "Americas / Global",
+  "biomes": [
+   "Naturalistic"
+  ]
+ },
+ {
+  "name": "Boeseman's Rainbowfish",
+  "type": "Aquarium",
+  "region": "Asia / Indo-Pacific",
+  "biomes": [
+   "Aquatic"
+  ]
+ },
+ {
+  "name": "Brown Trout",
+  "type": "Aquarium",
+  "region": "Europe / Eurasia",
+  "biomes": [
+   "Aquatic"
+  ]
+ },
+ {
+  "name": "Cape Buffalo",
+  "type": "Habitat",
+  "region": "Africa",
+  "biomes": [
+   "Grassland",
+   "Savannah"
+  ]
+ },
+ {
+  "name": "Cloudless Sulphur",
+  "type": "Exhibit",
+  "region": "Africa",
+  "biomes": [
+   "Species-specific exhibit"
+  ]
+ },
+ {
+  "name": "Clown Anemonefish",
+  "type": "Aquarium",
+  "region": "Americas / Global",
+  "biomes": [
+   "Aquatic"
+  ]
+ },
+ {
+  "name": "Clown Loach",
+  "type": "Aquarium",
+  "region": "Aquatic / Global",
+  "biomes": [
+   "Aquatic"
+  ]
+ },
+ {
+  "name": "Clown Triggerfish",
+  "type": "Aquarium",
+  "region": "Aquatic / Global",
+  "biomes": [
+   "Aquatic"
+  ]
+ },
+ {
+  "name": "Common Ostrich",
+  "type": "Aviary",
+  "region": "Africa",
+  "biomes": [
+   "Woodland",
+   "Grassland"
+  ]
+ },
+ {
+  "name": "Common Rudd",
+  "type": "Aquarium",
+  "region": "Europe / Eurasia",
+  "biomes": [
+   "Aquatic"
+  ]
+ },
+ {
+  "name": "Common Warthog",
+  "type": "Habitat",
+  "region": "Africa",
+  "biomes": [
+   "Naturalistic"
+  ]
+ },
+ {
+  "name": "Danube Crested Newt",
+  "type": "Exhibit",
+  "region": "Europe / Eurasia",
+  "biomes": [
+   "Species-specific exhibit"
+  ]
+ },
+ {
+  "name": "Desert Horned Viper",
+  "type": "Exhibit",
+  "region": "Africa",
+  "biomes": [
+   "Species-specific exhibit"
+  ]
+ },
+ {
+  "name": "Diamondback Terrapin",
+  "type": "Habitat",
+  "region": "Americas / Global",
+  "biomes": [
+   "Wetlands",
+   "Freshwater"
+  ]
+ },
+ {
+  "name": "Dolphinfish",
+  "type": "Aquarium",
+  "region": "Aquatic / Global",
+  "biomes": [
+   "Aquatic"
+  ]
+ },
+ {
+  "name": "Eastern Blue Tongued Lizard",
+  "type": "Exhibit",
+  "region": "Americas / Global",
+  "biomes": [
+   "Species-specific exhibit"
+  ]
+ },
+ {
+  "name": "Eastern Brown Snake",
+  "type": "Exhibit",
+  "region": "Americas / Global",
+  "biomes": [
+   "Species-specific exhibit"
+  ]
+ },
+ {
+  "name": "Eurasian Beaver",
+  "type": "Habitat",
+  "region": "Europe / Eurasia",
+  "biomes": [
+   "Wetlands",
+   "Freshwater"
+  ]
+ },
+ {
+  "name": "Eurasian Bittern",
+  "type": "Aviary",
+  "region": "Europe / Eurasia",
+  "biomes": [
+   "Woodland",
+   "Grassland"
+  ]
+ },
+ {
+  "name": "Eurasian Brown Bear",
+  "type": "Habitat",
+  "region": "Europe / Eurasia",
+  "biomes": [
+   "Forest",
+   "Temperate"
+  ]
+ },
+ {
+  "name": "Eurasian Lynx",
+  "type": "Habitat",
+  "region": "Europe / Eurasia",
+  "biomes": [
+   "Forest",
+   "Temperate"
+  ]
+ },
+ {
+  "name": "European Bison",
+  "type": "Habitat",
+  "region": "Europe / Eurasia",
+  "biomes": [
+   "Forest",
+   "Temperate"
+  ]
+ },
+ {
+  "name": "European Peacock Butterfly",
+  "type": "Exhibit",
+  "region": "Europe / Eurasia",
+  "biomes": [
+   "Species-specific exhibit"
+  ]
+ },
+ {
+  "name": "Fire Salamander",
+  "type": "Exhibit",
+  "region": "Europe / Eurasia",
+  "biomes": [
+   "Species-specific exhibit"
+  ]
+ },
+ {
+  "name": "Galapagos Giant Tortoise",
+  "type": "Habitat",
+  "region": "Americas / Global",
+  "biomes": [
+   "Naturalistic"
+  ]
+ },
+ {
+  "name": "Gemsbok",
+  "type": "Habitat",
+  "region": "Africa",
+  "biomes": [
+   "Desert",
+   "Grassland"
+  ]
+ },
+ {
+  "name": "Gharial",
+  "type": "Habitat",
+  "region": "Global",
+  "biomes": [
+   "Wetlands",
+   "Freshwater"
+  ]
+ },
+ {
+  "name": "Giant Forest Scorpion",
+  "type": "Exhibit",
+  "region": "Global",
+  "biomes": [
+   "Species-specific exhibit"
+  ]
+ },
+ {
+  "name": "Giant Gourami",
+  "type": "Aquarium",
+  "region": "Americas / Global",
+  "biomes": [
+   "Aquatic"
+  ]
+ },
+ {
+  "name": "Giant Grouper",
+  "type": "Aquarium",
+  "region": "Aquatic / Global",
+  "biomes": [
+   "Aquatic"
+  ]
+ },
+ {
+  "name": "Giant Malaysian Leaf Insect",
+  "type": "Exhibit",
+  "region": "Asia / Indo-Pacific",
+  "biomes": [
+   "Species-specific exhibit"
+  ]
+ },
+ {
+  "name": "Giant Panda",
+  "type": "Habitat",
+  "region": "Asia / Indo-Pacific",
+  "biomes": [
+   "Forest",
+   "Temperate"
+  ]
+ },
+ {
+  "name": "Giant Tiger Land Snail",
+  "type": "Exhibit",
+  "region": "Americas / Global",
+  "biomes": [
+   "Species-specific exhibit"
+  ]
+ },
+ {
+  "name": "Gila Monster",
+  "type": "Exhibit",
+  "region": "Asia / Indo-Pacific",
+  "biomes": [
+   "Species-specific exhibit"
+  ]
+ },
+ {
+  "name": "Golden Eagle",
+  "type": "Aviary",
+  "region": "Global",
+  "biomes": [
+   "Woodland",
+   "Grassland"
+  ]
+ },
+ {
+  "name": "Golden Lion Tamarin",
+  "type": "Habitat",
+  "region": "Asia / Indo-Pacific",
+  "biomes": [
+   "Grassland",
+   "Savannah"
+  ]
+ },
+ {
+  "name": "Golden Poison Frog",
+  "type": "Exhibit",
+  "region": "Americas / Global",
+  "biomes": [
+   "Species-specific exhibit"
+  ]
+ },
+ {
+  "name": "Golden Trevally",
+  "type": "Aquarium",
+  "region": "Aquatic / Global",
+  "biomes": [
+   "Aquatic"
+  ]
+ },
+ {
+  "name": "Goliath Beetle",
+  "type": "Exhibit",
+  "region": "Africa",
+  "biomes": [
+   "Species-specific exhibit"
+  ]
+ },
+ {
+  "name": "Goliath Frog",
+  "type": "Exhibit",
+  "region": "Africa",
+  "biomes": [
+   "Species-specific exhibit"
+  ]
+ },
+ {
+  "name": "Goodfellow's Tree Kangaroo",
+  "type": "Habitat",
+  "region": "Asia / Indo-Pacific",
+  "biomes": [
+   "Naturalistic"
+  ]
+ },
+ {
+  "name": "Great Hammerhead",
+  "type": "Aquarium",
+  "region": "Aquatic / Global",
+  "biomes": [
+   "Aquatic"
+  ]
+ },
+ {
+  "name": "Great Hornbill",
+  "type": "Aviary",
+  "region": "Asia / Indo-Pacific",
+  "biomes": [
+   "Woodland",
+   "Grassland"
+  ]
+ },
+ {
+  "name": "Greater Flamingo",
+  "type": "Aviary",
+  "region": "Africa",
+  "biomes": [
+   "Woodland",
+   "Grassland"
+  ]
+ },
+ {
+  "name": "Grey Wolf",
+  "type": "Habitat",
+  "region": "Global",
+  "biomes": [
+   "Forest",
+   "Temperate"
+  ]
+ },
+ {
+  "name": "Grizzly Bear",
+  "type": "Habitat",
+  "region": "Global",
+  "biomes": [
+   "Forest",
+   "Temperate"
+  ]
+ },
+ {
+  "name": "Hawksbill Sea Turtle",
+  "type": "Habitat",
+  "region": "Americas / Global",
+  "biomes": [
+   "Naturalistic"
+  ]
+ },
+ {
+  "name": "Hippopotamus",
+  "type": "Habitat",
+  "region": "Global",
+  "biomes": [
+   "Wetlands",
+   "Freshwater"
+  ]
+ },
+ {
+  "name": "Humphead Wrasse",
+  "type": "Aquarium",
+  "region": "Aquatic / Global",
+  "biomes": [
+   "Aquatic"
+  ]
+ },
+ {
+  "name": "Indian Elephant",
+  "type": "Habitat",
+  "region": "Asia / Indo-Pacific",
+  "biomes": [
+   "Grassland",
+   "Savannah"
+  ]
+ },
+ {
+  "name": "Indian Ocean Oriental Sweetlips",
+  "type": "Aquarium",
+  "region": "Asia / Indo-Pacific",
+  "biomes": [
+   "Aquatic"
+  ]
+ },
+ {
+  "name": "Indo-Pacific Sergeant",
+  "type": "Aquarium",
+  "region": "Asia / Indo-Pacific",
+  "biomes": [
+   "Aquatic"
+  ]
+ },
+ {
+  "name": "Javan Green Magpie",
+  "type": "Aviary",
+  "region": "Asia / Indo-Pacific",
+  "biomes": [
+   "Woodland",
+   "Grassland"
+  ]
+ },
+ {
+  "name": "Javanese Cownose Ray",
+  "type": "Aquarium",
+  "region": "Asia / Indo-Pacific",
+  "biomes": [
+   "Aquatic"
+  ]
+ },
+ {
+  "name": "Koi",
+  "type": "Aquarium",
+  "region": "Aquatic / Global",
+  "biomes": [
+   "Aquatic"
+  ]
+ },
+ {
+  "name": "Komodo Dragon",
+  "type": "Habitat",
+  "region": "Asia / Indo-Pacific",
+  "biomes": [
+   "Naturalistic"
+  ]
+ },
+ {
+  "name": "Lehmann's Poison Frog",
+  "type": "Exhibit",
+  "region": "Asia / Indo-Pacific",
+  "biomes": [
+   "Species-specific exhibit"
+  ]
+ },
+ {
+  "name": "Leopard Shark",
+  "type": "Aquarium",
+  "region": "Aquatic / Global",
+  "biomes": [
+   "Aquatic"
+  ]
+ },
+ {
+  "name": "Long-eared Owl",
+  "type": "Aviary",
+  "region": "Global",
+  "biomes": [
+   "Woodland",
+   "Grassland"
+  ]
+ },
+ {
+  "name": "Longfin Batfish",
+  "type": "Aquarium",
+  "region": "Aquatic / Global",
+  "biomes": [
+   "Aquatic"
+  ]
+ },
+ {
+  "name": "Long-tailed Parakeet",
+  "type": "Aviary",
+  "region": "Global",
+  "biomes": [
+   "Woodland",
+   "Grassland"
+  ]
+ },
+ {
+  "name": "Malabar Rose",
+  "type": "Exhibit",
+  "region": "Asia / Indo-Pacific",
+  "biomes": [
+   "Species-specific exhibit"
+  ]
+ },
+ {
+  "name": "Malayan Tapir",
+  "type": "Habitat",
+  "region": "Asia / Indo-Pacific",
+  "biomes": [
+   "Wetlands",
+   "Freshwater"
+  ]
+ },
+ {
+  "name": "Masai Giraffe",
+  "type": "Habitat",
+  "region": "Africa",
+  "biomes": [
+   "Grassland",
+   "Savannah"
+  ]
+ },
+ {
+  "name": "Meerkat",
+  "type": "Habitat",
+  "region": "Africa",
+  "biomes": [
+   "Desert",
+   "Grassland"
+  ]
+ },
+ {
+  "name": "Menelaus Blue Morpho",
+  "type": "Exhibit",
+  "region": "Americas / Global",
+  "biomes": [
+   "Species-specific exhibit"
+  ]
+ },
+ {
+  "name": "Mexican Redknee Tarantula",
+  "type": "Exhibit",
+  "region": "Americas / Global",
+  "biomes": [
+   "Species-specific exhibit"
+  ]
+ },
+ {
+  "name": "Monarch Butterfly",
+  "type": "Exhibit",
+  "region": "Americas / Global",
+  "biomes": [
+   "Species-specific exhibit"
+  ]
+ },
+ {
+  "name": "Moon Jelly",
+  "type": "Aquarium",
+  "region": "Americas / Global",
+  "biomes": [
+   "Aquatic"
+  ]
+ },
+ {
+  "name": "Mountain Hare",
+  "type": "Habitat",
+  "region": "Europe / Eurasia",
+  "biomes": [
+   "Forest",
+   "Temperate"
+  ]
+ },
+ {
+  "name": "Nile Monitor",
+  "type": "Habitat",
+  "region": "Asia / Indo-Pacific",
+  "biomes": [
+   "Naturalistic"
+  ]
+ },
+ {
+  "name": "North Sulawesi Babirusa",
+  "type": "Habitat",
+  "region": "Asia / Indo-Pacific",
+  "biomes": [
+   "Naturalistic"
+  ]
+ },
+ {
+  "name": "Nyala",
+  "type": "Habitat",
+  "region": "Africa",
+  "biomes": [
+   "Naturalistic"
+  ]
+ },
+ {
+  "name": "Ocean Sunfish",
+  "type": "Aquarium",
+  "region": "Aquatic / Global",
+  "biomes": [
+   "Aquatic"
+  ]
+ },
+ {
+  "name": "Old World Swallowtail",
+  "type": "Exhibit",
+  "region": "Americas / Global",
+  "biomes": [
+   "Species-specific exhibit"
+  ]
+ },
+ {
+  "name": "Pacific Bluefin Tuna",
+  "type": "Aquarium",
+  "region": "Aquatic / Global",
+  "biomes": [
+   "Aquatic"
+  ]
+ },
+ {
+  "name": "Pacific Sardine",
+  "type": "Aquarium",
+  "region": "Aquatic / Global",
+  "biomes": [
+   "Aquatic"
+  ]
+ },
+ {
+  "name": "Palette Surgeonfish",
+  "type": "Aquarium",
+  "region": "Aquatic / Global",
+  "biomes": [
+   "Aquatic"
+  ]
+ },
+ {
+  "name": "Plains Zebra",
+  "type": "Habitat",
+  "region": "Global",
+  "biomes": [
+   "Grassland",
+   "Savannah"
+  ]
+ },
+ {
+  "name": "Przewalski's Horse",
+  "type": "Habitat",
+  "region": "Europe / Eurasia",
+  "biomes": [
+   "Naturalistic"
+  ]
+ },
+ {
+  "name": "Red Deer",
+  "type": "Habitat",
+  "region": "Europe / Eurasia",
+  "biomes": [
+   "Forest",
+   "Temperate"
+  ]
+ },
+ {
+  "name": "Red Lionfish",
+  "type": "Aquarium",
+  "region": "Aquatic / Global",
+  "biomes": [
+   "Aquatic"
+  ]
+ },
+ {
+  "name": "Red Panda",
+  "type": "Habitat",
+  "region": "Asia / Indo-Pacific",
+  "biomes": [
+   "Forest",
+   "Temperate"
+  ]
+ },
+ {
+  "name": "Red-eyed Tree Frog",
+  "type": "Exhibit",
+  "region": "Global",
+  "biomes": [
+   "Species-specific exhibit"
+  ]
+ },
+ {
+  "name": "Reticulated Giraffe",
+  "type": "Habitat",
+  "region": "Global",
+  "biomes": [
+   "Grassland",
+   "Savannah"
+  ]
+ },
+ {
+  "name": "Ring-tailed Lemur",
+  "type": "Habitat",
+  "region": "Global",
+  "biomes": [
+   "Naturalistic"
+  ]
+ },
+ {
+  "name": "Sable Antelope",
+  "type": "Habitat",
+  "region": "Africa",
+  "biomes": [
+   "Grassland",
+   "Savannah"
+  ]
+ },
+ {
+  "name": "Sacred Scarab Beetle",
+  "type": "Exhibit",
+  "region": "Global",
+  "biomes": [
+   "Species-specific exhibit"
+  ]
+ },
+ {
+  "name": "Sailfin Snapper",
+  "type": "Aquarium",
+  "region": "Aquatic / Global",
+  "biomes": [
+   "Aquatic"
+  ]
+ },
+ {
+  "name": "Saltwater Crocodile",
+  "type": "Habitat",
+  "region": "Global",
+  "biomes": [
+   "Wetlands",
+   "Freshwater"
+  ]
+ },
+ {
+  "name": "Sand Tiger Shark",
+  "type": "Aquarium",
+  "region": "Aquatic / Global",
+  "biomes": [
+   "Aquatic"
+  ]
+ },
+ {
+  "name": "Schooling Bannerfish",
+  "type": "Aquarium",
+  "region": "Aquatic / Global",
+  "biomes": [
+   "Aquatic"
+  ]
+ },
+ {
+  "name": "Secretarybird",
+  "type": "Aviary",
+  "region": "Africa",
+  "biomes": [
+   "Woodland",
+   "Grassland"
+  ]
+ },
+ {
+  "name": "Shoebill",
+  "type": "Aviary",
+  "region": "Global",
+  "biomes": [
+   "Woodland",
+   "Grassland"
+  ]
+ },
+ {
+  "name": "Siamang",
+  "type": "Habitat",
+  "region": "Asia / Indo-Pacific",
+  "biomes": [
+   "Naturalistic"
+  ]
+ },
+ {
+  "name": "Snow Leopard",
+  "type": "Habitat",
+  "region": "Asia / Indo-Pacific",
+  "biomes": [
+   "Forest",
+   "Temperate"
+  ]
+ },
+ {
+  "name": "Spotted Eagle Ray",
+  "type": "Aquarium",
+  "region": "Aquatic / Global",
+  "biomes": [
+   "Aquatic"
+  ]
+ },
+ {
+  "name": "Spotted Hyena",
+  "type": "Habitat",
+  "region": "Africa",
+  "biomes": [
+   "Grassland",
+   "Savannah"
+  ]
+ },
+ {
+  "name": "Springbok",
+  "type": "Habitat",
+  "region": "Africa",
+  "biomes": [
+   "Desert",
+   "Grassland"
+  ]
+ },
+ {
+  "name": "Sumatran Orangutan",
+  "type": "Habitat",
+  "region": "Asia / Indo-Pacific",
+  "biomes": [
+   "Naturalistic"
+  ]
+ },
+ {
+  "name": "Sumatran Tiger",
+  "type": "Habitat",
+  "region": "Asia / Indo-Pacific",
+  "biomes": [
+   "Forest",
+   "Temperate"
+  ]
+ },
+ {
+  "name": "Sun Bear",
+  "type": "Habitat",
+  "region": "Asia / Indo-Pacific",
+  "biomes": [
+   "Forest",
+   "Temperate"
+  ]
+ },
+ {
+  "name": "Sunda Pangolin",
+  "type": "Habitat",
+  "region": "Asia / Indo-Pacific",
+  "biomes": [
+   "Naturalistic"
+  ]
+ },
+ {
+  "name": "Thomson's Gazelle",
+  "type": "Habitat",
+  "region": "Africa",
+  "biomes": [
+   "Grassland",
+   "Savannah"
+  ]
+ },
+ {
+  "name": "Threespot Damselfish",
+  "type": "Aquarium",
+  "region": "Aquatic / Global",
+  "biomes": [
+   "Aquatic"
+  ]
+ },
+ {
+  "name": "Toco Toucan",
+  "type": "Aviary",
+  "region": "Americas / Global",
+  "biomes": [
+   "Woodland",
+   "Grassland"
+  ]
+ },
+ {
+  "name": "West African Lion",
+  "type": "Habitat",
+  "region": "Africa",
+  "biomes": [
+   "Grassland",
+   "Savannah"
+  ]
+ },
+ {
+  "name": "West Indian Manatee",
+  "type": "Habitat",
+  "region": "Asia / Indo-Pacific",
+  "biomes": [
+   "Wetlands",
+   "Freshwater"
+  ]
+ },
+ {
+  "name": "Western Chimpanzee",
+  "type": "Habitat",
+  "region": "Americas / Global",
+  "biomes": [
+   "Naturalistic"
+  ]
+ },
+ {
+  "name": "Western Diamondback Rattlesnake",
+  "type": "Exhibit",
+  "region": "Americas / Global",
+  "biomes": [
+   "Species-specific exhibit"
+  ]
+ },
+ {
+  "name": "Western Lowland Gorilla",
+  "type": "Habitat",
+  "region": "Americas / Global",
+  "biomes": [
+   "Naturalistic"
+  ]
+ },
+ {
+  "name": "White-backed Vulture",
+  "type": "Aviary",
+  "region": "Africa",
+  "biomes": [
+   "Woodland",
+   "Grassland"
+  ]
+ },
+ {
+  "name": "White-tailed Eagle",
+  "type": "Aviary",
+  "region": "Europe / Eurasia",
+  "biomes": [
+   "Woodland",
+   "Grassland"
+  ]
+ },
+ {
+  "name": "Wild Boar",
+  "type": "Habitat",
+  "region": "Europe / Eurasia",
+  "biomes": [
+   "Forest",
+   "Temperate"
+  ]
+ },
+ {
+  "name": "Yellow Anaconda",
+  "type": "Exhibit",
+  "region": "Global",
+  "biomes": [
+   "Species-specific exhibit"
+  ]
+ },
+ {
+  "name": "Yellow Tang",
+  "type": "Aquarium",
+  "region": "Asia / Indo-Pacific",
+  "biomes": [
+   "Aquatic"
+  ]
+ }
+]
